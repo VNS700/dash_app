@@ -34,7 +34,7 @@ fqdn==1.5.1
 gunicorn
 idna==3.4
 ipykernel
-ipython==8.11.0
+ipython
 ipython-genutils==0.2.0
 isoduration==20.11.0
 itsdangerous==2.1.2
